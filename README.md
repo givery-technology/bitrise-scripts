@@ -1,6 +1,8 @@
 # bitrise-scripts
 
 - The purpose is automation of building, storing and deploying.
+- Scripts here are referred with direct-link by `Remote Script Runner` that is a script Bitrise provides like this https://raw.githubusercontent.com/givery-technology/bitrise-scripts/master/internal/versioning-ios.sh. So **Don't change structure carelessly**. And also, **Don't change to private repo**.
+
 
 ## Define branches
 - master
